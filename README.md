@@ -2,13 +2,13 @@
  * @Author: Scott Zheng
  * @Date: 2021-03-19 15:23:48
  * @LastEditors: Scott Zheng
- * @LastEditTime: 2022-03-02 23:10:27
+ * @LastEditTime: 2022-03-02 23:17:29
  * @FilePath: \Code\README.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Scott Zheng, All Rights Reserved. 
 -->
-![UTK](Figures\University-CenteredLogo-RGB.png)
+![UTK](.\Figures\University-CenteredLogo-RGB.png)
 
 # Supoort algorithm
 * MDABC  (.\Function)
