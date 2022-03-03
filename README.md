@@ -8,7 +8,7 @@
  * 
  * Copyright (c) 2022 by Scott Zheng, All Rights Reserved. 
 -->
-![UTK](.\Figures\University-CenteredLogo-RGB.png)
+![UTK](https://github.com/heishanmao/MDABC_Algorithm/blob/master/Figures/University-CenteredLogo-RGB.png)
 
 # Supoort algorithm
 * MDABC  (.\Function)
